@@ -1,0 +1,18 @@
+Russian handwritten dataset contains information of 117 writers
+For each writer there is one profile, which contains three handwritten blocks.
+The data set contains six different profile variants.
+
+file format: 1_12.png where
+    1 - variant number
+    12 - writer number within variant
+    1_12 - unique writer identifier
+
+Number of completed questionnaires: 
+variant_1: 25
+variant_2: 16
+variant_3: 20
+variant_4: 23
+variant_5: 19
+variant_6: 14
+--------------
+total: 117
